@@ -1,0 +1,2 @@
+#  never search for images
+

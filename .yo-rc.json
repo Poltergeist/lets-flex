@@ -1,0 +1,7 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "lets-flex",
+    "packageVersion": "0.0.1",
+    "useSass": true
+  }
+}
