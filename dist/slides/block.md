@@ -1,0 +1,7 @@
+##  block
+
+```
+element{
+  display: block;
+}
+```

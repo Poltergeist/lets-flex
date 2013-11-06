@@ -1,0 +1,6 @@
+## Flex
+```
+.wrapper{
+  display: flex;
+}
+```
